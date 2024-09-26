@@ -1,0 +1,95 @@
+C:\Users\sweap\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\sweap\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\sweap\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\sweap\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\sweap\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\sweap\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\sweap\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\sweap\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\sweap\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\sweap\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\sweap\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\sweap\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\Owner\Downloads\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Owner\Downloads\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Owner\Downloads\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Owner\Downloads\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Owner\Downloads\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Owner\Downloads\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Owner\Downloads\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Owner\Downloads\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Owner\Downloads\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Owner\Downloads\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Owner\Downloads\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Owner\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Owner\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Owner\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Owner\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Owner\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Owner\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Owner\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Owner\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Owner\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\DownLoad\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\DownLoad\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\DownLoad\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\DownLoad\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Owner\Downloads\DownLoad\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Owner\Downloads\DownLoad\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Owner\Downloads\DownLoad\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Owner\Downloads\DownLoad\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Owner\Downloads\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\Owner\Downloads\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Owner\Downloads\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Owner\Downloads\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Owner\Downloads\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Owner\Downloads\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Owner\Downloads\DownLoad\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\DNCT\김성욱\# 문서\005. 사이트별이슈\012. 경산제지\240213_계근연동 건\예제소스\소켓통신\소켓예제\WindowsApp1(소스파일)\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\DNCT\김성욱\# 문서\005. 사이트별이슈\012. 경산제지\240213_계근연동 건\예제소스\소켓통신\소켓예제\WindowsApp1(소스파일)\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\DNCT\김성욱\# 문서\005. 사이트별이슈\012. 경산제지\240213_계근연동 건\예제소스\소켓통신\소켓예제\WindowsApp1(소스파일)\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\DNCT\김성욱\# 문서\005. 사이트별이슈\012. 경산제지\240213_계근연동 건\예제소스\소켓통신\소켓예제\WindowsApp1(소스파일)\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\DNCT\김성욱\# 문서\005. 사이트별이슈\012. 경산제지\240213_계근연동 건\예제소스\소켓통신\소켓예제\WindowsApp1(소스파일)\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\DNCT\김성욱\# 문서\005. 사이트별이슈\012. 경산제지\240213_계근연동 건\예제소스\소켓통신\소켓예제\WindowsApp1(소스파일)\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\DNCT\김성욱\# 문서\005. 사이트별이슈\012. 경산제지\240213_계근연동 건\예제소스\소켓통신\소켓예제\WindowsApp1(소스파일)\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\DNCT\김성욱\# 문서\005. 사이트별이슈\012. 경산제지\240213_계근연동 건\예제소스\소켓통신\소켓예제\WindowsApp1(소스파일)\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\DNCT\김성욱\# 문서\005. 사이트별이슈\012. 경산제지\240213_계근연동 건\예제소스\소켓통신\소켓예제\WindowsApp1(소스파일)\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\DNCT\김성욱\# 문서\005. 사이트별이슈\012. 경산제지\240213_계근연동 건\예제소스\소켓통신\소켓예제\WindowsApp1(소스파일)\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\DNCT\김성욱\# 문서\005. 사이트별이슈\012. 경산제지\240213_계근연동 건\예제소스\소켓통신\소켓예제\WindowsApp1(소스파일)\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\DNCT\김성욱\# 문서\005. 사이트별이슈\012. 경산제지\240213_계근연동 건\예제소스\소켓통신\소켓예제\WindowsApp1(소스파일)\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\seoin\Documents\카카오톡 받은 파일\WindowsApp1(소스파일) (3)\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\seoin\Documents\카카오톡 받은 파일\WindowsApp1(소스파일) (3)\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\seoin\Documents\카카오톡 받은 파일\WindowsApp1(소스파일) (3)\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\seoin\Documents\카카오톡 받은 파일\WindowsApp1(소스파일) (3)\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\seoin\Documents\카카오톡 받은 파일\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\seoin\Documents\카카오톡 받은 파일\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\seoin\Documents\카카오톡 받은 파일\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\seoin\Documents\카카오톡 받은 파일\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\seoin\Documents\카카오톡 받은 파일\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\seoin\Documents\카카오톡 받은 파일\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\seoin\Documents\카카오톡 받은 파일\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\seoin\Documents\카카오톡 받은 파일\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\seoin\Desktop\socket\WindowsApp1(소스파일) (3)\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\seoin\Desktop\socket\WindowsApp1(소스파일) (3)\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\seoin\Desktop\socket\WindowsApp1(소스파일) (3)\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\seoin\Desktop\socket\WindowsApp1(소스파일) (3)\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\seoin\Desktop\socket\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\seoin\Desktop\socket\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\seoin\Desktop\socket\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\seoin\Desktop\socket\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\seoin\Desktop\socket\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\seoin\Desktop\socket\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\seoin\Desktop\socket\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\seoin\Desktop\socket\WindowsApp1(소스파일) (3)\WindowsApp1\obj\Debug\WindowsApp1.pdb
